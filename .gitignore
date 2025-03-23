@@ -1,0 +1,20 @@
+﻿# Ignorer les fichiers et dossiers générés par Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.suo
+*.user
+*.cache
+*.pdb
+
+# Exclure des dossiers spécifiques de ton projet
+Gestion Scolaire/
+Setup1/
+packages/
+
+# Fichiers inutiles
+SystemeGestionEtudiants.sln
+UpgradeLog.htm
+*.log
